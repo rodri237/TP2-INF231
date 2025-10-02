@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Mon projet TPINF231
+>>>>>>> 776218b (Mise à jour du README)
 # TP Listes Chaînées en C
 
 Ce projet regroupe plusieurs programmes de gestion de **listes simplement chaînées**, **listes simplement chaînées circulaires**, et propose également la structure de base pour les **listes doublement chaînées**.  
@@ -128,3 +132,7 @@ Si vous rencontrez un problème à la compilation ou à l’exécution, vérifie
 - Que tous les fichiers sont présents dans le même dossier.
 - Que votre version de GCC est à jour.
 - Que vous compilez bien tous les fichiers en même temps.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 776218b (Mise à jour du README)
