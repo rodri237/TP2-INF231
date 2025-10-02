@@ -128,7 +128,3 @@ Si vous rencontrez un problème à la compilation ou à l’exécution, vérifie
 - Que tous les fichiers sont présents dans le même dossier.
 - Que votre version de GCC est à jour.
 - Que vous compilez bien tous les fichiers en même temps.
-
----
-
-**Bon TP, et amusez-vous avec les listes chaînées !**
